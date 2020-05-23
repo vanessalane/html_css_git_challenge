@@ -23,7 +23,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 # Mock-up
-
+![Screenshot](screenshots/mockup.png)
 
 # Screenshot
-
+![Screenshot](screenshots/index_22MAY2020.png)
